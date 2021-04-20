@@ -16,8 +16,7 @@ _Analysis Description_
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82549092/115318855-9ee00500-a14c-11eb-9d6a-f3759fbd690a.png)
 
-_
-Challenges or Difficulties_
+_Challenges or Difficulties_
  1. Creating the countifs formulas for "Outcomes Based on Goals" was tedious and would requires multiple formula updates if the ranges were changed. To aleviate this, min and max range columns were created for the formula to reference for ease of calculation and update.
  2. Althought the goal and pledged columns are formated with a "$" sign, there is also a column for the currency of the campaign. The dataset does not provide details on if the goal and pledged monetary values are actually converted to the same currency, although the columns are formatted to appear as USD. This could result in misinterpreations of the bucketing for the "Outcomes Based on Goals" analysis.
 
@@ -29,8 +28,8 @@ _Theater Outcomes by Launch Date_
 
 _Outcomes based on Goals_
   1. "Theater: plays" campaigns with a goal under $19,999 has a success rate of over 50% based on the available data.
-_
-Summary of Limitations on Dataset_
+
+_Summary of Limitations on Dataset_
   1. **Theater Outcomes by Launch Date** - Louise's analysis should be performed on the percentage of successful projects compared to only number of projects. Although the month with the most successful projects also aligns with the highest percent of success in the current dataset, this could be different in other years. In addition, layering in the additional category of fundraising goals could paint a different picture based on how much campaigns were looking to raise during particular months.
   2. **Outcomes Based on Goals** - Across the sample data, most of the data is concentrated on campaigns with a goal of less than $10,000. Without knowing Louise's goal, we are unable to know if our analysis will be relevant. If Louise had a goal that was greater than $25,000, there may not be enough data to perform accurate analysis. 
 
