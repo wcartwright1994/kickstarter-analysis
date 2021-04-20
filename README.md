@@ -20,6 +20,7 @@ Challenges or Difficulties
 
 
 **Results**
+
 Theater Outcomes by Launch Date
   1. The largest amount of campaigns, as well as the largest percentage of successful campaigns, were created in May.
   2. Compared to succesful or failed campaigns, very little theater campaigns were cancelled.
